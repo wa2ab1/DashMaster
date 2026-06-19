@@ -1,12 +1,14 @@
 # Sim Racing Telemetry display Powered by SimHub
 
 <img width="2160" height="1082" alt="new new good thumbnail race hub" src="https://github.com/user-attachments/assets/2e43031e-c3f5-489c-a119-bcfb2d760c1d" />
-<img width="1788" height="889" alt="copy back race hub good" src="https://github.com/user-attachments/assets/8294bc04-ef17-4ff4-817c-5833c37bf735" />
-<img width="2160" height="1082" alt="good front view race hub" src="https://github.com/user-attachments/assets/a5a54718-468e-4dec-b099-4b999706795b" />
+
 
 This Sim Racing Dash is a practical Sim racing addon to your sim racing setup that displays your current Gear, Speed, and Lap Time using an 8x8 LED Matrix and 7 segment displays.
 
 This project was created to add more realistic and cool visual cues to my racing setup. It is designed to be attached on top of a Logitech G29/G920/G923 wheelbase using velcro straps and would be seen through the gap on the steering wheel.
+
+<img width="1788" height="889" alt="copy back race hub good" src="https://github.com/user-attachments/assets/8294bc04-ef17-4ff4-817c-5833c37bf735" />
+<img width="2160" height="1082" alt="good front view race hub" src="https://github.com/user-attachments/assets/a5a54718-468e-4dec-b099-4b999706795b" />
 
 ## Features:
 
