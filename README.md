@@ -1,6 +1,6 @@
 # Sim Racing Telemetry display Powered by SimHub
 
-<img width="2160" height="1082" alt="new new good thumbnail race hub" src="https://github.com/user-attachments/assets/2e43031e-c3f5-489c-a119-bcfb2d760c1d" />
+<img width="2160" height="1082" alt="led render race hub" src="https://github.com/user-attachments/assets/ac57c2fd-06f8-4a32-a5c2-b9901af26e65" />
 
 
 This Sim Racing Dash is a practical Sim racing addon to your sim racing setup that displays your current Gear, Speed, and Lap Time using an 8x8 LED Matrix and 7 segment displays.
@@ -21,7 +21,6 @@ This project was created to add more realistic and cool visual cues to my racing
 
 ## Case
 
-
 The case is 3d printed in three parts: The rectangular case housing, the top plate, and the support bracket. 15% infill is reccomended.
 <img width="2160" height="1082" alt="race hub parts render" src="https://github.com/user-attachments/assets/84c84662-8554-44d3-bf3b-aa029060f634" />
 
@@ -30,7 +29,7 @@ For the design shown in the photo, paint the inner cavity and surrounding cover 
 The LED Matrix and 7 segment displays are screwed in using M3 and M2 screws respectively and mounted on female to female 6mm metal standoffs. The Arduino Pro Micro is Friction fit into a special slot near the usb port.
 <img width="2160" height="1082" alt="internals race hub render" src="https://github.com/user-attachments/assets/98733628-3fb5-4601-899f-79cbf2b25a13" />
 
-The Racing Dash can be used on a desk on its own or mounted onto a wheelbase such as the Logitech G29. Using the adhesive velcro straps, stick one side onto the wheelbase behind the wheel in your desired location, then stick the other side onto the bottom of the Racing Dash. It should stay secure even with Trueforce enabled on the G923 which vibrates the wheelbase heavily.
+The Racing Dash can be used on a desk on its own or mounted onto a wheelbase such as the Logitech G29. Using the adhesive velcro straps, stick the hooked side onto the wheelbase behind the wheel in your desired location, then stick the softer side onto the base of the Racing Dash. This allows you to still use the Racing Dash on a table.
 
 ## Wiring
 
