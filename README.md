@@ -1,10 +1,10 @@
-# DashMaster: LED Sim Racing Telemetry display Powered by SimHub
+# DashMaster: LED Sim Racing Telemetry Display Powered by SimHub
 
 <img width="1834" height="908" alt="carbon fiber sin hub" src="https://github.com/user-attachments/assets/6a26f3dd-eff0-47d0-85d9-fc88e62aa513" />
 
 DashMaster is a practical Sim racing telemetry dash that displays race information such as your current gear, speed, and lap time using an 8x8 LED Matrix and 7 segment displays.
 
-This project was created to add more realistic and immersive driving components to a racing setup. Having external telemetry displays clears up the monitor view for a more immersive experience. It is designed to be attached on top of a Logitech G29/G920/G923 wheelbase and would be seen through the gap on the steering wheel.
+This project was created to add more realistic and immersive driving components to my racing setup. Having external telemetry displays clears up the monitor view for a more immersive experience while driving. Since buying sim racing addons can be ridiculously expensive, I decided to create one myself!  It is designed to be attached on top of a Logitech G29/G920/G923 wheelbase and would be seen through the gap on the steering wheel.
 
 <img width="1788" height="889" alt="copy back race hub good" src="https://github.com/user-attachments/assets/8294bc04-ef17-4ff4-817c-5833c37bf735" />
 <img width="1925" height="960" alt="carbon fiber head on" src="https://github.com/user-attachments/assets/cbf02fea-abad-49a6-a922-34c79f40e6f9" />
@@ -15,10 +15,10 @@ This project was created to add more realistic and immersive driving components 
 - 3 digit 7-segment display for current speed
 - 6 digit 7-segment display for current lap time
 - Powered by Arduino Pro Micro Microcontroller
-- Velcro straps to attach securely to any wheelbase
+- Velcro strips to attach securely to any wheelbase
 - Configured with SimHub software
 
-<img width="1410" height="2000" alt="Zine" src="https://github.com/user-attachments/assets/77c12f49-f998-4a45-bb99-1cb9c2f89b29" />
+<img width="1410" height="2000" alt="Zine" src="https://github.com/user-attachments/assets/7821f045-9207-49bb-9493-e488362055ba" />
 
 ## Case
 
