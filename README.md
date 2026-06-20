@@ -4,7 +4,7 @@
 
 DashMaster is a practical Sim racing telemetry dash that displays race information such as your current gear, speed, and lap time using an 8x8 LED Matrix and 7 segment displays.
 
-This project was created to add more realistic and immersive driving components to a racing setup. Having external telemetry displays clears up the monitor view for a more immersive experience. It is designed to be attached on top of a Logitech G29/G920/G923 wheelbase and would be seen through the gap on the steering wheel.
+This project was created to add more realistic and immersive driving components to my racing setup. Having external telemetry displays clears up the monitor view for a more immersive experience while driving. Since buying sim racing addons can be ridiculously expensive, I decided to create one myself!  It is designed to be attached on top of a Logitech G29/G920/G923 wheelbase and would be seen through the gap on the steering wheel.
 
 <img width="1788" height="889" alt="copy back race hub good" src="https://github.com/user-attachments/assets/8294bc04-ef17-4ff4-817c-5833c37bf735" />
 <img width="1925" height="960" alt="carbon fiber head on" src="https://github.com/user-attachments/assets/cbf02fea-abad-49a6-a922-34c79f40e6f9" />
